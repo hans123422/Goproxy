@@ -194,18 +194,10 @@ print(response.json())
 
 ---
 
-Summary
-
-This repository serves as a practical reference covering:
-
-Proxy endpoint generation
-Session configuration
-Sub account creation and control
-Whitelist management
-API integration examples
-Usage and plan monitoring
-
-Designed for developers and operators working with automation, scraping, or network routing scenarios.
+Goproxy sales support
+John
+https://www.goproxy.com/?link=4d34be
+WhatsApp: +61 485 952 040
 
 ---
 
